@@ -12,7 +12,7 @@ I have a range of skills that include back-end development using open source tec
 
 Languages and Tools: 
 
-
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
     </a>
@@ -59,7 +59,7 @@ Languages and Tools:
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
-    
+    </svg>
 
 <!--
 **Sujeet-Uchagaonkar/Sujeet-Uchagaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
