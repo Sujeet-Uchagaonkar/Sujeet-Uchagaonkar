@@ -5,7 +5,7 @@
 
 I'm
 Full Stack Developer
-I have a range of skills that include back-end development using open source technologies (Java, Spring Boot), design (working closely with designers), front-end development (Angular, HTML5, CSS3, Bootstrap), Server Administrator(PCF-GCP),database(Mysql,Postgres), CI/CD(Concourse, Docker, Jenkins)
+I have a range of skills that include back-end development using open source technologies (Java 8,11,17, Spring Boot 2x,3x), design (working closely with designers), front-end development (Angular, HTML5, CSS3, Bootstrap), Server Administrator(Pivotal Cloud Foundry,GCP),database(Mysql,Postgres,MongoDB), CI/CD(Concourse, Docker, Jenkins)
 
 
 
